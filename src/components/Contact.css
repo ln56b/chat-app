@@ -49,3 +49,7 @@
 .Contact .status .status-offline {
   background: #f4511e;
 }
+
+.status {
+  padding : 0.7em 0;
+}
